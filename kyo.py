@@ -30,3 +30,4 @@ else:
             m-=1
             aida -= 1
             c+=1
+print(n,m)
